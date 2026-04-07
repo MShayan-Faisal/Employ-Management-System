@@ -20,12 +20,12 @@ This system allows users to perform complete **CRUD operations (Create, Read, Up
 
 ## 🧰 Tech Stack
 
-- React.js (Frontend)  
-- Node.js + Express.js (Backend API)  
+- React.js (Frontend)    
 - MongoDB (Database)  
 - JavaScript (ES6+)  
 - CSS3 / Tailwind CSS  
-- Axios (API calls)  
+- Axios (API calls)
+- Python(Backend)  
 
 ---
 
